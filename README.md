@@ -1,6 +1,6 @@
 # 🖤 Night Drive — a BMW M4 Tribute in 3D
 
-**Live experience → [hprince01.github.io/projects/night-drive](https://hprince01.github.io/projects/night-drive/)**
+**Live experience → [princehirwa.pages.dev/projects/night-drive](https://princehirwa.pages.dev/projects/night-drive/)**
 
 A cinematic, scroll-driven web experience that mixes **real-time 3D**, **parallax photography** and **POV footage of my own black BMW**. Inspired by modern automotive launch sites.
 
@@ -28,4 +28,4 @@ A cinematic, scroll-driven web experience that mixes **real-time 3D**, **paralla
 *Unofficial fan project. Not affiliated with, endorsed by or connected to BMW AG. BMW and M4 are trademarks of their owner.*
 
 ---
-Designed & coded by **Prince Hirwa Rutagengwa · [Kai Labs](https://hprince01.github.io/)** — Kigali, Rwanda.
+Designed & coded by **Prince Hirwa Rutagengwa · [Kai Labs](https://princehirwa.pages.dev/)** — Kigali, Rwanda.
